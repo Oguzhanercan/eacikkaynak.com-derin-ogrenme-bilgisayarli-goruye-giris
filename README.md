@@ -1,2 +1,2 @@
 # eacikkaynak.com-derin-ogrenme-bilgisayarli-goruye-giris
-eacikkaynak.com bilgisayarlı görüye giriş ders materyalleri
+eacikkaynak.com derin öğrenmeye giriş dersi bilgisayarlı görüye giriş bölümü ders materyalleri
